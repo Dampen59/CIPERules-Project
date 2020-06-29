@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CIPERules-Discord", "CIPERules-Discord\CIPERules-Discord.csproj", "{EBA8F942-3296-4894-ADE1-E47A7599B0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIPERules-Client", "CIPERules-Client\CIPERules-Client.csproj", "{6AB47CA4-7EE3-4AB1-9C91-F753F09283A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA8F942-3296-4894-ADE1-E47A7599B0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA8F942-3296-4894-ADE1-E47A7599B0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA8F942-3296-4894-ADE1-E47A7599B0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA8F942-3296-4894-ADE1-E47A7599B0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB47CA4-7EE3-4AB1-9C91-F753F09283A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB47CA4-7EE3-4AB1-9C91-F753F09283A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB47CA4-7EE3-4AB1-9C91-F753F09283A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB47CA4-7EE3-4AB1-9C91-F753F09283A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E3BD7B-2372-49BF-A1ED-94B25D0510FE}
+	EndGlobalSection
+EndGlobal
